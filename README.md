@@ -3,7 +3,7 @@
 Hi, I am Aaron Bading and I am a developer. I have exerience in languages such as C/C++ , Python , javascript and I also have an interest in front-end development (frameworks like React.js) and Blockchain technology. I am eagerly looking forward to build interesting and innovative projects. I am open for freelancing work. Happy to help out and connect. If you have any queries feel free to drop a message.
 
 - 🌍 I'm based out of the U.S
-- 🧠 I'm learning Solidity and Web3
+- 🧠 I'm learning Solidity, RUST and Web3
 - 🤝 I'm open to collaborating on interesting and innovative projects
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronbading.ab@gmail.com)
